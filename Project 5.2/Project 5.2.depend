@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1447291552 source:c:\users\mark\desktop\c++ codeblocks projects\project 5.2\graph.cpp
+	"Graph.h"
+	<iostream>
+	<map>
+	<sstream>
+	<stdlib.h>
+	<string>
+
+1447291901 c:\users\mark\desktop\c++ codeblocks projects\project 5.2\graph.h
+	<fstream>
+	<vector>
+	<map>
+	<utility>
+	<string>
+
+1447288841 source:c:\users\mark\desktop\c++ codeblocks projects\project 5.2\main.cpp
+	<iostream>
+	"Graph.h"
+	<map>
+
